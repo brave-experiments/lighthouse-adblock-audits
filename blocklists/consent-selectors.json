@@ -1,0 +1,1457 @@
+[
+  {
+    "url": "https://9gag.com/",
+    "clicks": {
+      "https://9gag.com": [
+        {
+          "url": "https://9gag.com/",
+          "x": 879,
+          "y": 536,
+          "target": "button.button_button--lgX0P.intro_acceptAll--23PPA",
+          "srcElement": "button.button_button--lgX0P.intro_acceptAll--23PPA",
+          "path": [
+            "body",
+            "div.app_gdpr--2k2uB",
+            "div.popup_popup--1TXMW",
+            "div.popup_content--2JBXA",
+            "div.intro_intro--Ntqks",
+            "div.intro_options--gTc-i",
+            "button.button_button--lgX0P.intro_acceptAll--23PPA"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://apple.com/",
+    "clicks": {
+      "https://www.apple.com": [
+        {
+          "url": "https://www.apple.com/",
+          "x": 1092,
+          "y": 40,
+          "target": "a.ac-ls-button.ac-ls-actions-item.ac-ls-continue#ac-ls-continue",
+          "srcElement": "a.ac-ls-button.ac-ls-actions-item.ac-ls-continue#ac-ls-continue",
+          "path": [
+            "body.page-home.ac-nav-overlap",
+            "aside#ac-localeswitcher",
+            "div.ac-ls-content",
+            "div.ac-ls-actions",
+            "a.ac-ls-button.ac-ls-actions-item.ac-ls-continue#ac-ls-continue"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://asos.com/",
+    "clicks": {
+      "https://www.asos.com": [
+        {
+          "url": "https://www.asos.com/",
+          "x": 1323,
+          "y": 23,
+          "target": "button._2j72-Fo",
+          "srcElement": "button._2j72-Fo",
+          "path": [
+            "body",
+            "div#chrome-header",
+            "header",
+            "div._3qUJK6R",
+            "div._238iFwW",
+            "button._2j72-Fo"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://barclays.co.uk/",
+    "clicks": {
+      "https://www.barclays.co.uk": [
+        {
+          "url": "https://www.barclays.co.uk/",
+          "x": 1080,
+          "y": 211,
+          "target": "a.cookieprompt-button.btn.btn-secondary.btn-sm.cookie-close",
+          "srcElement": "a.cookieprompt-button.btn.btn-secondary.btn-sm.cookie-close",
+          "path": [
+            "body.segment-visible.skiplinks-hidden.desktop",
+            "div.iparys_inherited",
+            "div.cookies.iparsys.parsys",
+            "div.cookies.parbase.section",
+            "div.mod-cookieprompt.cookieprompt.js-cookie-panel.prompt-close",
+            "div.container-fluid",
+            "div.row.cookieprompt-wrapper",
+            "div.col-xs-12.col-md-3.col-lg-2.accptclose-btn",
+            "a.cookieprompt-button.btn.btn-secondary.btn-sm.cookie-close"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://bbc.co.uk/",
+    "clicks": {
+      "https://www.bbc.co.uk": [
+        {
+          "url": "https://www.bbc.co.uk/",
+          "x": 996,
+          "y": 29,
+          "target": "button.continue-button#bbcprivacy-continue-button",
+          "srcElement": "button.continue-button#bbcprivacy-continue-button",
+          "path": [
+            "body",
+            "div#cookiePrompt",
+            "section",
+            "div.bbccookies-banner.orb-banner-wrapper.bbccookies-d#bbcprivacy",
+            "div.orb-banner.b-g-p.b-r.b-f#bbcprivacy-prompt",
+            "ul.orb-banner-options",
+            "li",
+            "button.continue-button#bbcprivacy-continue-button"
+          ]
+        },
+        {
+          "url": "https://www.bbc.co.uk/",
+          "x": 1004,
+          "y": 25,
+          "target": "span",
+          "srcElement": "span",
+          "path": [
+            "body",
+            "div#cookiePrompt",
+            "section",
+            "div.bbccookies-banner.orb-banner-wrapper.bbccookies-d#bbccookies",
+            "div.orb-banner.b-g-p.b-r.b-f#bbccookies-prompt",
+            "ul.orb-banner-options",
+            "li",
+            "button.continue-button#bbccookies-continue-button",
+            "span"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://bbcgoodfood.com/",
+    "clicks": {
+      "https://www.bbcgoodfood.com": [
+        {
+          "url": "https://www.bbcgoodfood.com/",
+          "x": 1237,
+          "y": 824,
+          "target": "a.optanon-allow-all",
+          "srcElement": "a.optanon-allow-all",
+          "path": [
+            "body.bbcgf-user-collections-nids-processed",
+            "div.optanon-alert-box-wrapper",
+            "div.optanon-alert-box-bg",
+            "div.optanon-alert-box-button-container",
+            "div.optanon-alert-box-button.optanon-button-allow",
+            "div.optanon-alert-box-button-middle",
+            "a.optanon-allow-all"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://bleepingcomputer.com/",
+    "clicks": {
+      "https://www.bleepingcomputer.com": [
+        {
+          "url": "https://www.bleepingcomputer.com/",
+          "x": 803,
+          "y": 542,
+          "target": "button.qc-cmp-button",
+          "srcElement": "button.qc-cmp-button",
+          "path": [
+            "body.qc-cmp-ui-showing",
+            "div.qc-cmp-ui-container",
+            "div.qc-cmp-ui#qcCmpUi",
+            "div.qc-cmp-ui-content",
+            "div.qc-cmp-buttons.qc-cmp-primary-buttons#qcCmpButtons",
+            "button.qc-cmp-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://bt.com/",
+    "clicks": {
+      "https://www.bt.com": [
+        {
+          "url": "https://www.bt.com/?",
+          "x": 690,
+          "y": 501,
+          "target": "button.cookie-ui__btn___2YvnJ.cookie-ui__blue___Qenhk",
+          "srcElement": "button.cookie-ui__btn___2YvnJ.cookie-ui__blue___Qenhk",
+          "path": [
+            "body",
+            "div.cookie-ui__cookieUI___3fxp1",
+            "div.cookie-ui__cookieUI__popup___3yqQI",
+            "div",
+            "div.cookie-ui__section___17d3B",
+            "div",
+            "button.cookie-ui__btn___2YvnJ.cookie-ui__blue___Qenhk"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://dailyfeed.co.uk/",
+    "clicks": {
+      "https://www.dailyfeed.co.uk": [
+        {
+          "url": "https://www.dailyfeed.co.uk/",
+          "x": 1109,
+          "y": 796,
+          "target": "button.qc-cmp-button",
+          "srcElement": "button.qc-cmp-button",
+          "path": [
+            "body.home.blog.qc-cmp-ui-showing",
+            "div.qc-cmp-ui-container",
+            "div.qc-cmp-ui#qcCmpUi",
+            "div.qc-cmp-ui-content",
+            "div.qc-cmp-buttons#qcCmpButtons",
+            "button.qc-cmp-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://discogs.com/",
+    "clicks": {
+      "https://www.discogs.com": [
+        {
+          "url": "https://www.discogs.com/",
+          "x": 1236,
+          "y": 902,
+          "target": "button.optanon-allow-all.accept-cookies-button",
+          "srcElement": "button.optanon-allow-all.accept-cookies-button",
+          "path": [
+            "body.mac.chrome.chrome74",
+            "div.optanon-alert-box-wrapper",
+            "div.optanon-alert-box-bg",
+            "div.optanon-alert-box-button-container",
+            "div.optanon-alert-box-button.optanon-button-allow",
+            "div.optanon-alert-box-button-middle.accept-cookie-container",
+            "button.optanon-allow-all.accept-cookies-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://dw.com/",
+    "clicks": {
+      "https://www.dw.com": [
+        {
+          "url": "https://www.dw.com/en/top-stories/s-9097",
+          "x": 1126,
+          "y": 902,
+          "target": "a.cookie__btn.cookie__btn--ok",
+          "srcElement": "a.cookie__btn.cookie__btn--ok",
+          "path": [
+            "body#html_body",
+            "div.cookie",
+            "div.cookie__wrap",
+            "div.cookie__buttons",
+            "a.cookie__btn.cookie__btn--ok"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://ebay.co.uk/",
+    "clicks": {
+      "https://www.ebay.co.uk": [
+        {
+          "url": "https://www.ebay.co.uk/",
+          "x": 1248,
+          "y": 878,
+          "target": "button#gdpr-banner-accept",
+          "srcElement": "button#gdpr-banner-accept",
+          "path": [
+            "body.desktop.gh-flex.hl-pushdown-enabled",
+            "div.widgets-placeholder#widgets-placeholder",
+            "div.gh-module-with-target",
+            "div.ghfe-ds6.keyboard-trap--active#gdpr-banner",
+            "div.gdpr-banner__wrapper",
+            "button#gdpr-banner-accept"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://edition.cnn.com/",
+    "clicks": {
+      "https://edition.cnn.com": [
+        {
+          "url": "https://edition.cnn.com/",
+          "x": 1240,
+          "y": 897,
+          "target": "button.optanon-allow-all.accept-cookies-button",
+          "srcElement": "button.optanon-allow-all.accept-cookies-button",
+          "path": [
+            "body.pg.pg-intl_homepage.pg-section.international.t-light.multi-ads--complete",
+            "div.optanon-alert-box-wrapper.hide-cookie-setting-button",
+            "div.optanon-alert-box-bg",
+            "div.optanon-alert-box-button-container",
+            "div.optanon-alert-box-button.optanon-button-allow",
+            "div.optanon-alert-box-button-middle.accept-cookie-container",
+            "button.optanon-allow-all.accept-cookies-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://empireonline.com/",
+    "clicks": {
+      "https://www.empireonline.com": [
+        {
+          "url": "https://www.empireonline.com/",
+          "x": 759,
+          "y": 617,
+          "target": "a.banner_continue--2NyXA",
+          "srcElement": "a.banner_continue--2NyXA",
+          "path": [
+            "body.animate--body-slide-down",
+            "div.app_gdpr--2k2uB",
+            "div",
+            "div",
+            "div.banner_banner--3pjXd.banner_modal--1AlYU",
+            "div.banner_message--2Rvgt",
+            "div.banner_buttons--26GDw",
+            "div.banner_consent--2qj6F",
+            "div",
+            "a.banner_continue--2NyXA"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://etsy.com/",
+    "clicks": {
+      "https://www.etsy.com": [
+        {
+          "url": "https://www.etsy.com/",
+          "x": 893,
+          "y": 438,
+          "target": "button.width-full.btn.btn-outline.btn-outline-black",
+          "srcElement": "button.width-full.btn.btn-outline.btn-outline-black",
+          "path": [
+            "body.transitional-wide.bg-white.guest.no-touch.is-responsive.en-GB.GBP.GB.is-global-nav.wt-focus-visible",
+            "div",
+            "div.ui-toolkit",
+            "div.alert.bg-orange-lightest.alert-fixed-top.alert-fixed-floating.p-xs-3.p-md-6",
+            "div.display-flex-sm.justify-content-flex-end.align-items-baseline",
+            "div",
+            "button.width-full.btn.btn-outline.btn-outline-black"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://footybite.com/",
+    "clicks": {
+      "https://home.footybite.com": [
+        {
+          "url": "https://home.footybite.com/",
+          "x": 1168,
+          "y": 867,
+          "target": "button.btn.btn-footy-g",
+          "srcElement": "button.btn.btn-footy-g",
+          "path": [
+            "body",
+            "div#root",
+            "div.container-fluid",
+            "div#cookie-notice",
+            "div.container",
+            "div.row",
+            "div.col-md-2.text-center",
+            "button.btn.btn-footy-g"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://forbes.com/",
+    "clicks": {
+      "https://consent-pref.trustarc.com": [
+        {
+          "url": "https://consent-pref.trustarc.com/?type=forbes&site=forbes.com&action=notice&country=gb&locale=en&behavior=expressed&layout=default_eu&from=https://consent.trustarc.com/",
+          "x": 446,
+          "y": 202,
+          "target": "a.call",
+          "srcElement": "a.call",
+          "path": [
+            "body",
+            "div",
+            "div.mainContent",
+            "div",
+            "div",
+            "div.pdynamicbutton",
+            "a.call"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://fstoppers.com/",
+    "clicks": {
+      "https://fstoppers.com": [
+        {
+          "url": "https://fstoppers.com/",
+          "x": 987,
+          "y": 907,
+          "target": "button.agree-button.eu-cookie-compliance-default-button",
+          "srcElement": "button.agree-button.eu-cookie-compliance-default-button",
+          "path": [
+            "body.html.front.not-logged-in.one-sidebar.sidebar-second.page-node.page-node-.page-node-163438.node-type-homepage.onesignal-prompt.wide-enabled.homepage2.role-anonymous-user.eu-cookie-compliance-processed",
+            "div.sliding-popup-bottom#sliding-popup",
+            "div.eu-cookie-compliance-banner.eu-cookie-compliance-banner-info.eu-cookie-compliance-banner--default",
+            "div.popup-content.info",
+            "div#popup-buttons",
+            "button.agree-button.eu-cookie-compliance-default-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://gamespot.com/",
+    "clicks": {
+      "https://www.gamespot.com": [
+        {
+          "url": "https://www.gamespot.com/",
+          "x": 1268,
+          "y": 906,
+          "target": "button.evidon-banner-acceptbutton#_evidon-accept-button",
+          "srcElement": "button.evidon-banner-acceptbutton#_evidon-accept-button",
+          "path": [
+            "body.default.has-nav-slim.body-home.col-2-template.undefined.has-ads#default-body",
+            "div.evidon-banner#_evidon_banner",
+            "button.evidon-banner-acceptbutton#_evidon-accept-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://gazettelive.co.uk/",
+    "clicks": {
+      "https://www.gazettelive.co.uk": [
+        {
+          "url": "https://www.gazettelive.co.uk/",
+          "x": 1147,
+          "y": 757,
+          "target": "button.qc-cmp-button",
+          "srcElement": "button.qc-cmp-button",
+          "path": [
+            "body.section-page.qc-cmp-ui-showing",
+            "div.qc-cmp-ui-container",
+            "div.qc-cmp-ui#qcCmpUi",
+            "div.qc-cmp-ui-content",
+            "div.qc-cmp-buttons#qcCmpButtons",
+            "button.qc-cmp-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://gear4music.com/",
+    "clicks": {
+      "https://www.gear4music.com": [
+        {
+          "url": "https://www.gear4music.com/",
+          "x": 1124,
+          "y": 917,
+          "target": "button.btn.g4m-btn.g4m-btn-tertiary.btn-inline",
+          "srcElement": "button.btn.g4m-btn.g4m-btn-tertiary.btn-inline",
+          "path": [
+            "body.feature--mobile-logo.feature--pdp.feature--homepage.feature--menu.feature--header.feature--footer.feature--brand-colours.body-class--has-adaptive.body-class--desktop",
+            "div#cookieConsentWidgetDiv",
+            "div.cookie-consent-wrapper",
+            "div.cookie-consent-content.style-alt",
+            "p",
+            "button.btn.g4m-btn.g4m-btn-tertiary.btn-inline"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://gizmodo.co.uk/",
+    "clicks": {
+      "https://consent.cmp.gizmodo.co.uk": [
+        {
+          "url": "https://consent.cmp.gizmodo.co.uk/cmpui.html",
+          "x": 516,
+          "y": 298,
+          "target": "button.cmp-btn-primary.cmp-btn-sm.cmp-btn-accept#mainAgree",
+          "srcElement": "button.cmp-btn-primary.cmp-btn-sm.cmp-btn-accept#mainAgree",
+          "path": [
+            "body",
+            "div.cmp",
+            "div.cmp-body",
+            "div.cmp-view.cmp-main",
+            "div.cmp-content",
+            "div.cmp-btn-bar",
+            "button.cmp-btn-primary.cmp-btn-sm.cmp-btn-accept#mainAgree"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://independent.co.uk/",
+    "clicks": {
+      "https://www.independent.co.uk": [
+        {
+          "url": "https://www.independent.co.uk/",
+          "x": 1234,
+          "y": 817,
+          "target": "button.qc-cmp-button",
+          "srcElement": "button.qc-cmp-button",
+          "path": [
+            "body.section.amp-mode-mouse.qc-cmp-ui-showing#body",
+            "div.qc-cmp-ui-container",
+            "div.qc-cmp-ui#qcCmpUi",
+            "div.qc-cmp-ui-content",
+            "div.qc-cmp-buttons#qcCmpButtons",
+            "button.qc-cmp-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://johnlewis.com/",
+    "clicks": {
+      "https://www.johnlewis.com": [
+        {
+          "url": "https://www.johnlewis.com/",
+          "x": 1251,
+          "y": 844,
+          "target": "a.privacy-message-close--1b44d",
+          "srcElement": "a.privacy-message-close--1b44d",
+          "path": [
+            "body.js-focus-visible.jl-focusmanager-hide",
+            "div#root",
+            "div.privacy-message-overlay--b0198",
+            "div.privacy-message-content--90dbb",
+            "a.privacy-message-close--1b44d"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://latimes.com/",
+    "clicks": {
+      "https://www.latimes.com": [
+        {
+          "url": "https://www.latimes.com/",
+          "x": 501,
+          "y": 857,
+          "target": "div.button.raised.blue#ensCloseBanner",
+          "srcElement": "div.button.raised.blue#ensCloseBanner",
+          "path": [
+            "body.Page-body",
+            "div",
+            "div.ensNotifyBanner#ensNotifyBanner",
+            "div.ensButtons",
+            "div.button.raised.blue#ensCloseBanner"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://leedsbeckett.ac.uk/",
+    "clicks": {
+      "https://leedsbeckett.ac.uk": [
+        {
+          "url": "https://leedsbeckett.ac.uk/",
+          "x": 1038,
+          "y": 46,
+          "target": "span.button__text",
+          "srcElement": "span.button__text",
+          "path": [
+            "body.js-page.homepage",
+            "div.main.js-main",
+            "div.cookie-bar.js-cookie-bar",
+            "div.wrap",
+            "div.grid.grid_fluid.grid_vm",
+            "div.grid__item.grid__item_col_1.grid__item_span_6",
+            "a.button.button_pink.button_primary.js-accept-cookies",
+            "span.button__text"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://marineinsight.com/",
+    "clicks": {
+      "https://www.marineinsight.com": [
+        {
+          "url": "https://www.marineinsight.com/",
+          "x": 1066,
+          "y": 914,
+          "target": "a.cn-set-cookie.cn-button.wp-default.button#cn-accept-cookie",
+          "srcElement": "a.cn-set-cookie.cn-button.wp-default.button#cn-accept-cookie",
+          "path": [
+            "body.home.blog.custom-header.header-image.content-sidebar.news-pro-blue.elementor-default.news-pro-home.windows.chrome.override.cookies-not-set",
+            "div.cn-bottom.wp-default#cookie-notice",
+            "div.cookie-notice-container",
+            "a.cn-set-cookie.cn-button.wp-default.button#cn-accept-cookie"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://mirror.co.uk/",
+    "clicks": {
+      "https://www.mirror.co.uk": [
+        {
+          "url": "https://www.mirror.co.uk/",
+          "x": 1166,
+          "y": 751,
+          "target": "button.qc-cmp-button",
+          "srcElement": "button.qc-cmp-button",
+          "path": [
+            "body.section-page.qc-cmp-ui-showing",
+            "div.qc-cmp-ui-container",
+            "div.qc-cmp-ui#qcCmpUi",
+            "div.qc-cmp-ui-content",
+            "div.qc-cmp-buttons#qcCmpButtons",
+            "button.qc-cmp-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://mixer.com/",
+    "clicks": {
+      "https://mixer.com": [
+        {
+          "url": "https://mixer.com/",
+          "x": 1320,
+          "y": 910,
+          "target": "span.set-material.icon-close",
+          "srcElement": "span.set-material.icon-close",
+          "path": [
+            "body.scrollable",
+            "b-app",
+            "b-cookie-check",
+            "div.cookie-wrapper",
+            "button",
+            "div.bui-btn.bui-btn-icon.bui-btn-flat",
+            "span",
+            "bui-icon",
+            "span.set-material.icon-close"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://moneysupermarket.com/",
+    "clicks": {
+      "https://www.moneysupermarket.com": [
+        {
+          "url": "https://www.moneysupermarket.com/",
+          "x": 1313,
+          "y": 687,
+          "target": "span.cookie-directive__close-btn",
+          "srcElement": "span.cookie-directive__close-btn",
+          "path": [
+            "body.feature-ResultPagePollClickingAnalyticsFeature.feature-LicenceMonthFeature.feature-DisableNgCloakOnBodyFeature.feature-AdditionalDriverSelectorFeature.feature-AsyncEventLogFeature.feature-BS3621LocktypeUsedFeature",
+            "div.cookie-directive",
+            "span.cookie-directive__close-btn"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://purevpn.com/",
+    "clicks": {
+      "https://www.purevpn.com": [
+        {
+          "url": "https://www.purevpn.com/",
+          "x": 992,
+          "y": 33,
+          "target": "a.hellobar-btn.hbarEvent#CTA_gdbrcontinue_analytic",
+          "srcElement": "a.hellobar-btn.hbarEvent#CTA_gdbrcontinue_analytic",
+          "path": [
+            "body.organic-home.blackfriday-campaign.dark-banner.home",
+            "div.gdprContainer.check-hellobar",
+            "div.hellobar-wrap#gdpr_user_consent_banner",
+            "div.hellobar-box",
+            "div.container",
+            "div.col-lg-10.col-lg-offset-1",
+            "div.col-lg-3.col-sm-3.col-md-3.hellobar-box-right",
+            "a.hellobar-btn.hbarEvent#CTA_gdbrcontinue_analytic"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://realmeye.com/",
+    "clicks": {
+      "https://www.realmeye.com": [
+        {
+          "url": "https://www.realmeye.com/",
+          "x": 1146,
+          "y": 904,
+          "target": "button.btn.btn-primary",
+          "srcElement": "button.btn.btn-primary",
+          "path": [
+            "body",
+            "div.cookie-consent-alert#j",
+            "button.btn.btn-primary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://reddit.com/",
+    "clicks": {
+      "https://www.reddit.com": [
+        {
+          "url": "https://www.reddit.com/",
+          "x": 944,
+          "y": 895,
+          "target": "button._2JBsHFobuapzGwpHQjrDlD._1tI68pPnLBjR1iHcL7vsee",
+          "srcElement": "button._2JBsHFobuapzGwpHQjrDlD._1tI68pPnLBjR1iHcL7vsee",
+          "path": [
+            "body",
+            "div#2x-container",
+            "div._1VP69d9lk-Wk9zokOaylL",
+            "div",
+            "div._1gsAk1ihQliBnDybgyjghy#SHORTCUT_FOCUSABLE_DIV",
+            "div",
+            "div._3q-XSJ2vokDQrvdG6mR__k",
+            "form",
+            "div.trdUvQxqQHHqQKOUBcgnr._3RhWPJfjpsEoBw52x0fQp2",
+            "button._2JBsHFobuapzGwpHQjrDlD._1tI68pPnLBjR1iHcL7vsee"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://reuters.com/",
+    "clicks": {
+      "https://uk.reuters.com": [
+        {
+          "url": "https://uk.reuters.com/",
+          "x": 697,
+          "y": 923,
+          "target": "button.evidon-banner-acceptbutton#_evidon-accept-button",
+          "srcElement": "button.evidon-banner-acceptbutton#_evidon-accept-button",
+          "path": [
+            "body.UK.home",
+            "div.evidon-banner#_evidon_banner",
+            "button.evidon-banner-acceptbutton#_evidon-accept-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://rightmove.co.uk/",
+    "clicks": {
+      "https://www.rightmove.co.uk": [
+        {
+          "url": "https://www.rightmove.co.uk/",
+          "x": 1292,
+          "y": 904,
+          "target": "span#cookiemodalbar-button-text",
+          "srcElement": "span#cookiemodalbar-button-text",
+          "path": [
+            "body.t-right-col.full-width-content.home-page.home-page-rebranded.odin-top-nav#homepage",
+            "div.cookiemodalbar-rebrand",
+            "div#cookiemodalbar",
+            "div#cookiemodalbar-description",
+            "a#cookiemodalbar-button",
+            "span#cookiemodalbar-button-text"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://royalalberthall.com/",
+    "clicks": {
+      "https://www.royalalberthall.com": [
+        {
+          "url": "https://www.royalalberthall.com/",
+          "x": 1097,
+          "y": 42,
+          "target": "button.btn.btn-unstyled.cookie-notice__close-btn",
+          "srcElement": "button.btn.btn-unstyled.cookie-notice__close-btn",
+          "path": [
+            "body.type-home-page.section-home",
+            "div.area-global-header.area-global-header--fixed.l-fixed.header--slide.headroom--top",
+            "div.cookie-notice.cookie-notice--hidden",
+            "div.cookie-notice__inner",
+            "div.cookie-notice__close",
+            "button.btn.btn-unstyled.cookie-notice__close-btn"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://salesforce.com/",
+    "clicks": {
+      "https://www.salesforce.com": [
+        {
+          "url": "https://www.salesforce.com/uk/?ir=1",
+          "x": 382,
+          "y": 300,
+          "target": "button.optanon-allow-all.accept-cookies-button",
+          "srcElement": "button.optanon-allow-all.accept-cookies-button",
+          "path": [
+            "body.isp",
+            "div.optanon-alert-box-wrapper.hide-cookie-setting-button",
+            "div.optanon-alert-box-bg",
+            "div.optanon-alert-box-button-container",
+            "div.optanon-alert-box-button.optanon-button-allow",
+            "div.optanon-alert-box-button-middle.accept-cookie-container",
+            "button.optanon-allow-all.accept-cookies-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://salon.com/",
+    "clicks": {
+      "https://www.salon.com": [
+        {
+          "url": "https://www.salon.com/",
+          "x": 766,
+          "y": 577,
+          "target": "button.qc-cmp-button",
+          "srcElement": "button.qc-cmp-button",
+          "path": [
+            "body.qc-cmp-ui-showing#homepage",
+            "div.qc-cmp-ui-container",
+            "div.qc-cmp-ui#qcCmpUi",
+            "div.qc-cmp-ui-content",
+            "div.qc-cmp-buttons.qc-cmp-primary-buttons#qcCmpButtons",
+            "button.qc-cmp-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://samsung.com/",
+    "clicks": {
+      "https://www.samsung.com": [
+        {
+          "url": "https://www.samsung.com/uk/",
+          "x": 1194,
+          "y": 890,
+          "target": "button.truste-button1#truste-consent-button",
+          "srcElement": "button.truste-button1#truste-consent-button",
+          "path": [
+            "body.cookie-warning",
+            "div#consent_blackbar",
+            "div.trustarc-banner.truste-responsive#truste-consent-track",
+            "div.truste-consent-content",
+            "div.trustarc-buttons#truste-consent-buttons",
+            "button.truste-button1#truste-consent-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://shutterstock.com/",
+    "clicks": {
+      "https://www.shutterstock.com": [
+        {
+          "url": "https://www.shutterstock.com/",
+          "x": 893,
+          "y": 27,
+          "target": "a.p_b_e",
+          "srcElement": "a.p_b_e",
+          "path": [
+            "body",
+            "div#content",
+            "div.oc_f_a.p_c_b",
+            "div.oc_f_b",
+            "div.p_b_a",
+            "span.p_b_b",
+            "a.p_b_e"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://sky.com/",
+    "clicks": {
+      "https://www.sky.com": [
+        {
+          "url": "https://www.sky.com/",
+          "x": 1236,
+          "y": 21,
+          "target": "button.c-link-faux.c-link-faux--mast.mast-c-banners__nav.mast-c-banners__nav--dismiss.mast-js-dismiss",
+          "srcElement": "button.c-link-faux.c-link-faux--mast.mast-c-banners__nav.mast-c-banners__nav--dismiss.mast-js-dismiss",
+          "path": [
+            "body.mast-has-sign-in-notification",
+            "article.s-masthead.mast-c-banners.mast-c-banners-cookie.mast-js-banners-cookie",
+            "div.o-container",
+            "div.mast-c-banners__inner",
+            "div.mast-c-banners__controls.u-margin-right-small",
+            "button.c-link-faux.c-link-faux--mast.mast-c-banners__nav.mast-c-banners__nav--dismiss.mast-js-dismiss"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://sophos.com/",
+    "clicks": {
+      "https://www.sophos.com": [
+        {
+          "url": "https://www.sophos.com/en-us.aspx",
+          "x": 640,
+          "y": 913,
+          "target": "a.cookie-policy-accept#cookie-accept",
+          "srcElement": "a.cookie-policy-accept#cookie-accept",
+          "path": [
+            "body.pageNotScrolled#Body",
+            "form#form1",
+            "div.cookie-policy-container.responsive#cookie-policy-wrapper",
+            "div.cookie-policy-short.row",
+            "div.cookie-policy-short-left.small-12.column",
+            "a.cookie-policy-accept#cookie-accept"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://sportbible.com/",
+    "clicks": {
+      "http://www.sportbible.com": [
+        {
+          "url": "http://www.sportbible.com/",
+          "x": 819,
+          "y": 570,
+          "target": "button.qc-cmp-button",
+          "srcElement": "button.qc-cmp-button",
+          "path": [
+            "body.qc-cmp-ui-showing",
+            "div.qc-cmp-ui-container",
+            "div.qc-cmp-ui#qcCmpUi",
+            "div.qc-cmp-ui-content",
+            "div.qc-cmp-buttons.qc-cmp-primary-buttons#qcCmpButtons",
+            "button.qc-cmp-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://sportsmole.co.uk/",
+    "clicks": {
+      "https://www.sportsmole.co.uk": [
+        {
+          "url": "https://www.sportsmole.co.uk/",
+          "x": 1080,
+          "y": 760,
+          "target": "button.qc-cmp-button",
+          "srcElement": "button.qc-cmp-button",
+          "path": [
+            "body.qc-cmp-ui-showing.leaderboard-fixed.amp-mode-mouse",
+            "div.qc-cmp-ui-container",
+            "div.qc-cmp-ui#qcCmpUi",
+            "div.qc-cmp-ui-content",
+            "div.qc-cmp-buttons#qcCmpButtons",
+            "button.qc-cmp-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://team-sport.co.uk/",
+    "clicks": {
+      "https://www.team-sport.co.uk": [
+        {
+          "url": "https://www.team-sport.co.uk/",
+          "x": 1222,
+          "y": 904,
+          "target": "body.home",
+          "srcElement": "body.home",
+          "path": [
+            "body.home"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://thedailybeast.com/",
+    "clicks": {
+      "https://www.thedailybeast.com": [
+        {
+          "url": "https://www.thedailybeast.com/",
+          "x": 1195,
+          "y": 887,
+          "target": "a.optanon-allow-all",
+          "srcElement": "a.optanon-allow-all",
+          "path": [
+            "body.HomePageLayout#homepage",
+            "div.optanon-alert-box-wrapper",
+            "div.optanon-alert-box-bg",
+            "div.optanon-alert-box-button-container",
+            "div.optanon-alert-box-button.optanon-button-allow",
+            "div.optanon-alert-box-button-middle",
+            "a.optanon-allow-all"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://theguardian.com/",
+    "clicks": {
+      "https://www.theguardian.com": [
+        {
+          "url": "https://www.theguardian.com/uk",
+          "x": 389,
+          "y": 872,
+          "target": "span",
+          "srcElement": "span",
+          "path": [
+            "body#top",
+            "div.site-message.js-site-message.site-message--banner.site-message--first-pv-consent.site-message--permanent.is-hidden",
+            "div.gs-container",
+            "div.site-message__inner.js-site-message-inner",
+            "div.site-message__copy.js-site-message-copy.u-cf",
+            "div.site-message--first-pv-consent__actions",
+            "button.site-message--first-pv-consent__button.site-message--first-pv-consent__button--main.js-first-pv-consent-agree",
+            "span"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://theverge.com/",
+    "clicks": {
+      "https://www.theverge.com": [
+        {
+          "url": "https://www.theverge.com/",
+          "x": 626,
+          "y": 891,
+          "target": "div.m-privacy-consent__button-content",
+          "srcElement": "div.m-privacy-consent__button-content",
+          "path": [
+            "body.l-hub-page.hub-front-page",
+            "div.m-privacy-consent#privacy-consent",
+            "div.m-privacy-consent__inner",
+            "button#accept-privacy-consent",
+            "div.m-privacy-consent__button-content"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://three.co.uk/",
+    "clicks": {
+      "http://www.three.co.uk": [
+        {
+          "url": "http://www.three.co.uk/",
+          "x": 1121,
+          "y": 10,
+          "target": "span.icon-cross",
+          "srcElement": "span.icon-cross",
+          "path": [
+            "body#ng-app",
+            "header.device-width.newheader#head",
+            "div.notification.device-width.has-custom-close-button#rwd-cookie-message",
+            "div.device-width-content",
+            "a.close",
+            "span.icon-cross"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://tmz.com/",
+    "clicks": {
+      "https://www.tmz.com": [
+        {
+          "url": "https://www.tmz.com/",
+          "x": 1224,
+          "y": 62,
+          "target": "button.optanon-allow-all.accept-cookies-button",
+          "srcElement": "button.optanon-allow-all.accept-cookies-button",
+          "path": [
+            "body.theme-default",
+            "div.optanon-alert-box-wrapper",
+            "div.optanon-alert-box-bg",
+            "div.optanon-alert-box-button-container",
+            "div.optanon-alert-box-button.optanon-button-allow",
+            "div.optanon-alert-box-button-middle.accept-cookie-container",
+            "button.optanon-allow-all.accept-cookies-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://vice.com/",
+    "clicks": {
+      "https://www.vice.com": [
+        {
+          "url": "https://www.vice.com/en_uk",
+          "x": 434,
+          "y": 614,
+          "target": "button.sp_choice1567526963856.sp_choice-01567526963856.sp_choice_type_111567526963856",
+          "srcElement": "button.sp_choice1567526963856.sp_choice-01567526963856.sp_choice_type_111567526963856",
+          "path": [
+            "body.ssr",
+            "div.sp_message_container1567526963856#sp_message_id1567526963857",
+            "div.sp_message1567526963856",
+            "div.sp_message_panel1567526963856#sp_message_panel_id1567526963857",
+            "div.sp_message_frame1567526963856",
+            "div.sp_message_row1567526963856",
+            "div.sp_message_column1567526963856.sp_message_content1567526963856",
+            "div.sp_choices1567526963856",
+            "button.sp_choice1567526963856.sp_choice-01567526963856.sp_choice_type_111567526963856"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://washingtonpost.com/",
+    "clicks": {
+      "https://www.washingtonpost.com": [
+        {
+          "url": "https://www.washingtonpost.com/gdpr-consent/?destination=%2f%3f",
+          "x": 397,
+          "y": 448,
+          "target": "button.continue-btn.button.free",
+          "srcElement": "button.continue-btn.button.free",
+          "path": [
+            "body.pb-theme-normal.pb-full-fluid",
+            "div#pb-root",
+            "div.moat-trackable.pb-f-theme-normal.pb-f-dehydrate-false.pb-f-async-false.full.pb-feature.pb-layout-item.pb-f-page-gdpr-consent#f0SqqZp6mwoUSq",
+            "div.gdpr-consent",
+            "div.gdpr-consent-container",
+            "div.wall-page.hide",
+            "div.col-xs-12.col-sm-4.free",
+            "div.box",
+            "button.continue-btn.button.free"
+          ]
+        },
+        {
+          "url": "https://www.washingtonpost.com/gdpr-consent/?destination=%2f%3f",
+          "x": 527,
+          "y": 635,
+          "target": "input.agree-ckb#agree",
+          "srcElement": "input.agree-ckb#agree",
+          "path": [
+            "body.pb-theme-normal.pb-full-fluid",
+            "div#pb-root",
+            "div.moat-trackable.pb-f-theme-normal.pb-f-dehydrate-false.pb-f-async-false.full.pb-feature.pb-layout-item.pb-f-page-gdpr-consent#f0SqqZp6mwoUSq",
+            "div.gdpr-consent",
+            "div.gdpr-consent-container",
+            "div.consent-page",
+            "div.content.row",
+            "div.buttons-container",
+            "div.col-xs-12.hidden-mobile.desktop",
+            "input.agree-ckb#agree"
+          ]
+        },
+        {
+          "url": "https://www.washingtonpost.com/gdpr-consent/?destination=%2f%3f",
+          "x": 667,
+          "y": 635,
+          "target": "button.continue-btn.button.accept-consent",
+          "srcElement": "button.continue-btn.button.accept-consent",
+          "path": [
+            "body.pb-theme-normal.pb-full-fluid",
+            "div#pb-root",
+            "div.moat-trackable.pb-f-theme-normal.pb-f-dehydrate-false.pb-f-async-false.full.pb-feature.pb-layout-item.pb-f-page-gdpr-consent#f0SqqZp6mwoUSq",
+            "div.gdpr-consent",
+            "div.gdpr-consent-container",
+            "div.consent-page",
+            "div.content.row",
+            "div.buttons-container",
+            "div.col-xs-12.hidden-mobile.desktop",
+            "button.continue-btn.button.accept-consent"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://wikihow.com/",
+    "clicks": {
+      "https://www.wikihow.com": [
+        {
+          "url": "https://www.wikihow.com/Main-Page",
+          "x": 955,
+          "y": 920,
+          "target": "div.gdpr_button#gdpr_accept",
+          "srcElement": "div.gdpr_button#gdpr_accept",
+          "path": [
+            "body.mediawiki.ltr.sitedir-ltr.geo-group-eu",
+            "div#gdpr",
+            "div.gdpr_button#gdpr_accept"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://wowhead.com/",
+    "clicks": {
+      "https://www.wowhead.com": [
+        {
+          "url": "https://www.wowhead.com/",
+          "x": 1245,
+          "y": 838,
+          "target": "span",
+          "srcElement": "span",
+          "path": [
+            "body.standard-layout.locale-0.has-ads.will-have-zul-bar.has-zul-bar.webp",
+            "div.app_gdpr--2k2uB",
+            "div.banner_banner--3pjXd",
+            "div.banner_content--1bZDZ",
+            "div.banner_message--2Rvgt",
+            "div.banner_consent--2qj6F",
+            "a.banner_continue--2NyXA",
+            "span"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.cambridge.org/",
+    "clicks": {
+      "https://www.cambridge.org": [
+        {
+          "url": "https://www.cambridge.org/",
+          "x": 875,
+          "y": 12,
+          "target": "a.dismiss.cambridge-icon.hideText",
+          "srcElement": "a.dismiss.cambridge-icon.hideText",
+          "path": [
+            "body.homepage",
+            "div.off#cookieNotice",
+            "div.wrap",
+            "a.dismiss.cambridge-icon.hideText"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.currys.co.uk/",
+    "clicks": {
+      "https://www.currys.co.uk": [
+        {
+          "url": "https://www.currys.co.uk/gbuk/index.html",
+          "x": 1222,
+          "y": 882,
+          "target": "button",
+          "srcElement": "button",
+          "path": [
+            "body",
+            "div.gdpr-message",
+            "button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.juventus.com/",
+    "clicks": {
+      "https://www.juventus.com": [
+        {
+          "url": "https://www.juventus.com/it/",
+          "x": 663,
+          "y": 921,
+          "target": "a.button.buttonImportant",
+          "srcElement": "a.button.buttonImportant",
+          "path": [
+            "body.transparent.index.php.format-default.ls-tab-off",
+            "div#cookieNotice",
+            "div",
+            "a.button.buttonImportant"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.nationalrail.co.uk/",
+    "clicks": {
+      "https://www.nationalrail.co.uk": [
+        {
+          "url": "https://www.nationalrail.co.uk/",
+          "x": 1243,
+          "y": 891,
+          "target": "a.optanon-allow-all.accept-cookies-button",
+          "srcElement": "a.optanon-allow-all.accept-cookies-button",
+          "path": [
+            "body",
+            "div.optanon-alert-box-wrapper",
+            "div.optanon-alert-box-bg",
+            "div.optanon-alert-box-button-container",
+            "div.optanon-alert-box-button.optanon-button-allow",
+            "div.optanon-alert-box-button-middle.accept-cookie-container",
+            "a.optanon-allow-all.accept-cookies-button"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.riverisland.nl/",
+    "clicks": {
+      "https://www.riverisland.nl": [
+        {
+          "url": "https://www.riverisland.nl/",
+          "x": 1127,
+          "y": 862,
+          "target": "button.cookie-notification-banner__cta.btn.ui-primary",
+          "srcElement": "button.cookie-notification-banner__cta.btn.ui-primary",
+          "path": [
+            "body.region-NL.ri-home.mm-wrapper",
+            "div.mm-page.mm-slideout#mm-0",
+            "div#root-app-container-h3i8u",
+            "div",
+            "div.cookie-notifcation-banner.cookie-notifcation-banner-enter-done#cookie-notifcation-banner",
+            "div.cookie-notification-banner__full-width-constraint",
+            "button.cookie-notification-banner__cta.btn.ui-primary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.ryanair.com/",
+    "clicks": {
+      "https://www.ryanair.com": [
+        {
+          "url": "https://www.ryanair.com/gb/en/",
+          "x": 1313,
+          "y": 867,
+          "target": "path",
+          "srcElement": "path",
+          "path": [
+            "body.tpl-homepage.homepage",
+            "div.cookie-popup#cookie-popup",
+            "div.cookie-popup__close",
+            "div",
+            "svg#glyphs.close",
+            "path"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.trouva.com/",
+    "clicks": {
+      "https://www.trouva.com": [
+        {
+          "url": "https://www.trouva.com/",
+          "x": 1119,
+          "y": 901,
+          "target": "span",
+          "srcElement": "span",
+          "path": [
+            "body",
+            "div#__next",
+            "div",
+            "div.root___3NHPN",
+            "div.wrapper___3TbjR",
+            "button.close___1Bbs3",
+            "span"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://yahoo.com/",
+    "clicks": {
+      "https://consent.yahoo.com": [
+        {
+          "url": "https://consent.yahoo.com/collectConsent?sessionId=3_cc-session_c47980a4-ade4-413b-ab67-4c0c02a1c0a2&lang=en-GB&inline=false",
+          "x": 502,
+          "y": 581,
+          "target": "button.btn.primary",
+          "srcElement": "button.btn.primary",
+          "path": [
+            "body.no-touch.blur-preview-tpl.eu-localized.home.en-GB.js",
+            "div.consent-semi-transparent",
+            "div.consent-round-corner",
+            "div.consent-container",
+            "form.consent-form",
+            "div",
+            "button.btn.primary"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://yandex.ru/",
+    "clicks": {
+      "https://yandex.ru": [
+        {
+          "url": "https://yandex.ru/",
+          "x": 1246,
+          "y": 892,
+          "target": "button.lg-cc__button.lg-cc__button_type_action",
+          "srcElement": "button.lg-cc__button.lg-cc__button_type_action",
+          "path": [
+            "body.not-logged.b-page_infinity-zen_yes.i-ua.i-bem.b-page.b-page_desk-notif_shifted.b-page_alt-widgets_yes.b-page_media-footer-collapsed_no.b-page_media-footer-lifted_no.b-page_media-footer-wide_yes.i-ua_platform_other.i-ua_js_inited",
+            "div",
+            "div.lg-cc",
+            "div.lg-cc__controls",
+            "button.lg-cc__button.lg-cc__button_type_action"
+          ]
+        }
+      ]
+    }
+  }
+]

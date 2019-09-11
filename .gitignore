@@ -1,0 +1,8 @@
+reports/
+node_modules/
+figures/
+.DS_Store
+*.tsv
+dummyprofile/
+logs/
+temp*
