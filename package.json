@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {},
   "devDependencies": {
-    "lighthouse": "^5.2.0"
+    "lighthouse": "^9.6.7"
   },
   "dependencies": {
     "adblock-rs": "^0.1.32",
